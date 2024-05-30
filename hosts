@@ -1,7 +1,7 @@
 [ubuntu_os_version]
 65.2.123.22
-[amazon_linux_version]
-13.126.97.89
+##[amazon_linux_version]
+##13.126.97.89
 # This is the default ansible 'hosts' file.
 #
 # It should live in /etc/ansible/hosts
